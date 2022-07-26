@@ -159,7 +159,7 @@ See [section below](#worlddem-and-tandem-x) for more details.
 
 
 The 90m version should be open for research use.
-- It also might be possible to obtain a limitd access to the 12m and/or 30m versions ([source](https://twitter.com/ishiba/status/1538858150538919937))
+- It also might be possible to obtain a limited access to the 12m and/or 30m versions ([source](https://twitter.com/ishiba/status/1538858150538919937))
 
 #### Links
 - [Geoservice DLR: TanDEM-X 90m](https://geoservice.dlr.de/web/dataguide/tdm90/)
@@ -217,3 +217,6 @@ DSM of the Arctic
 
 #### Links
 - [ArcticDEM](https://www.pgc.umn.edu/data/arcticdem/)
+
+----
+[*Social preview image source*](https://commons.wikimedia.org/wiki/File:Digital_Elevation_Model_of_our_Earth.png)
