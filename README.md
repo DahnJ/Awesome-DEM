@@ -1,3 +1,25 @@
+# Contents
+
+- [Portals](#portals)
+- [Data](#data)
+  - [Global, open](#global-open)
+    - [Summary](#summary)
+    - [ASTER GDEM](#aster-gdem)
+    - [SRTM DEM](#srtm-dem)
+    - [NASADEM](#nasadem)
+    - [ALOS World 3D-30m](#alos-world-3d-30m)
+    - [Copernicus DEM](#copernicus-dem)
+    - [MERIT](#merit)
+    - [FABDEM](#fabdem)
+    - [TanDEM-X](#tandem-x)
+  - [Global, proprietary](#global-proprietary)
+    - [WorldDEM and TanDEM-X](#worlddem-and-tandem-x)
+    - [Vricon](#vricon)
+  - [Local, open](#local-open)
+    - [EU-DEM](#eu-dem)
+    - [3DEP](#3dep)
+    - [ArcticDEM](#arcticdem)
+
 # Portals
 - [OpenTopography](https://opentopography.org/)
 - [AWS Open Data](https://registry.opendata.aws/)
@@ -46,6 +68,7 @@ Shuttle Radar Topography Mission
 - Space shuttle **Endeavour**
 
 ![](http://radiomobile.pe1mew.nl/images/srtm_covmap_hi_small.jpg)
+
 Coverage is only between 60° north and 56° south latitude
 
 #### Products
@@ -60,13 +83,13 @@ Coverage is only between 60° north and 56° south latitude
 
 ### NASADEM
 Reprocessing of SRTM
-- Using latest unwrapping techniques
+- Using the latest unwrapping techniques
 - More voids filled with auxiliary data
     - ASTER GDEM, Advanced Land Observing Satellite (ALOS) Panchromatic Remote sensing Instrument for Stereo Mapping (PRISM), USGS National Elevation Dataset (NED), and Canada and Alaska DEMs Global DEM Specifications
 
 
-![](https://i.imgur.com/x1fb3H2.png)
 [Comparison with CopernicusDEM in the Indus delta region](https://twitter.com/3vetion/status/1538934235679141888)
+![](https://i.imgur.com/x1fb3H2.png)
 
 
 #### Links
@@ -87,16 +110,18 @@ Reprocessing of SRTM
 Based on WorldDEM/TanDEM-X
 
 ![](https://i.imgur.com/c4Bo2dj.png)
-Does not cover areas aruond Azerbaijan and Armenia
+
+Does not cover areas around Azerbaijan and Armenia
 
 ![](https://i.imgur.com/fbCSwHt.png)
+
 Product comparison
 
 #### Products
 - **GLO-90** worldwide 90m
 - **GLO-30** limited worldwide 30m
     - doesn't cover Azerbaijan and Armenia
-- **EEA-10** Europe only, not publicly avaialble ([access rights](https://spacedata.copernicus.eu/web/cscda/copernicus-users/access-rights#C5))
+- **EEA-10** Europe only, not publicly avaialable ([access rights](https://spacedata.copernicus.eu/web/cscda/copernicus-users/access-rights#C5))
 
 #### Links
 - [AWS: Copernicus DEM](https://registry.opendata.aws/copernicus-dem/)
