@@ -2,7 +2,10 @@
 
 # Contents
 
-- [Portals](#portals)
+- [Overviews](#overviews)
+  - [Papers](#papers)
+  - [Portals](#portals)
+  - [Discussion](#discussion)
 - [Data](#data)
   - [Global, open](#global-open)
     - [Summary](#summary)
@@ -22,11 +25,18 @@
     - [3DEP](#3dep)
     - [ArcticDEM](#arcticdem)
 
-# Portals
+# Overviews
+### Papers
+- [Vertical Accuracy of Freely Available Global Digital Elevation Models (ASTER, AW3D30, MERIT, TanDEM-X, SRTM, and NASADEM)](https://www.mdpi.com/2072-4292/12/21/3482)
+
+### Portals
 - [OpenTopography](https://opentopography.org/)
 - [AWS Open Data](https://registry.opendata.aws/)
 - [Microsoft Planetary Computer Data Catalog](https://planetarycomputer.microsoft.com/catalog)
 - [Google Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/catalog)
+
+### Discussion
+- [Discussion on Joe Morrison's DEM tweet](https://twitter.com/mouthofmorrison/status/1538679755674984448)
 
 
 # Data
