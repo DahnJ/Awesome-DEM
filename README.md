@@ -221,4 +221,5 @@ DSM of the Arctic
 - [ArcticDEM](https://www.pgc.umn.edu/data/arcticdem/)
 
 ----
-[*Social preview image source*](https://commons.wikimedia.org/wiki/File:Digital_Elevation_Model_of_our_Earth.png)
+- [*Social preview image source*](https://commons.wikimedia.org/wiki/File:Digital_Elevation_Model_of_our_Earth.png)
+- *Logo created with* [*Brandmark*](https://app.brandmark.io/v3/)
