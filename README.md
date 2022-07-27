@@ -51,7 +51,7 @@ This graphic from [Neon](https://www.neonscience.org/resources/learning-hub/tuto
 
 ![](https://raw.githubusercontent.com/NEONScience/NEON-Data-Skills/dev-aten/graphics/lidar-derived-products/DSM-DTM.png)
 
-Note that even a DTM dataset may still be influenced by the actual surface height. For example, SRTM tends to be inaccurate when forest canopy is present.
+For a more detailed discussion, see [Digital Elevation Models: Terminology and Definitions](https://www.mdpi.com/2072-4292/13/18/3581).
 
 
 # Links
@@ -59,6 +59,7 @@ Note that even a DTM dataset may still be influenced by the actual surface heigh
 - [Vertical Accuracy of Freely Available Global Digital Elevation Models (ASTER, AW3D30, MERIT, TanDEM-X, SRTM, and NASADEM)](https://www.mdpi.com/2072-4292/12/21/3482)
 - [Comparative accuracy of the AW3D30 DSM, ASTER GDEM, and SRTM1 DEM: A case study on the Zaoksky testing ground, Central European Russia](https://www.tandfonline.com/doi/full/10.1080/2150704X.2018.1468098)
 - [Accuracy assessment of the TanDEM-X 90 Digital Elevation Model for selected floodplain sites](https://www.sciencedirect.com/science/article/pii/S0034425719303384)
+- [Evaluation of TanDEM-X DEMs on selected Brazilian sites: Comparison with SRTM, ASTER GDEM and ALOS AW3D30](https://www.sciencedirect.com/science/article/abs/pii/S0034425718302001?via%3Dihub)
 
 ### Portals
 - [OpenTopography](https://opentopography.org/)
