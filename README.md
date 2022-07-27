@@ -286,7 +286,7 @@ DEMs, DSMs and point clouds for Australia
     - 5m
     - 1 second
 - Complete coverage for NSW, Victoria and Tasminia with partial coverage in other state/territories
-- Baythymetry also provided for surrounding waters
+- Bathymetry also provided for surrounding waters
 
 ![](elvis-coverage.png)
 
