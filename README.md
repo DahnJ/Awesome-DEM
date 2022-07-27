@@ -224,6 +224,30 @@ Collection of open and proprietary DEMs from Airbus (WorldDEM) and DLR (TanDEM-X
 - [Apollo Mapping article](https://apollomapping.com/blog/50-cm-vricon-digital-elevation-models-dems-now-available)
 
 
+## Global bathymetric, open
+### GMRT
+Global Multi-Resolution Topography Data Synthesis
+- synthesis of multi-resolution multibeam sonar data
+- 100m resolution
+- latest version: GMRT 4.0., released in 2022
+
+
+#### Links
+- [Project website](https://www.gmrt.org/)
+- [OpenTopography](https://portal.opentopography.org/datasetMetadata?otCollectionID=OT.112016.4326.1)
+
+### SRTM15+
+Global Bathymetry and Topography
+- SRTM plus shipboard sounding and satellite-derived predicted depths
+- 15 arcsec resolution (approximately 500x500m pixel size at equator)
+- latest version: SRTM+ V2.1., released in 2019
+
+#### Links
+- [Project website](https://topex.ucsd.edu/WWW_html/srtm15_plus.html)
+- [OpenTopography](https://portal.opentopography.org/datasetMetadata?otCollectionID=OT.122019.4326.1)
+- [Paper (V2.0)](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019EA000658)
+
+
 ## Local, open
 ### EU-DEM
 DSM, fusion of SRTM and ASTER GDEM
