@@ -327,12 +327,13 @@ DEMs, DSMs and point clouds for Australia
 
 
 ### Litto3D
-Coastal areas in mainland France, topograhpic and bathymetric information
+Coastal areas in mainland France, topographic and bathymetric information
 - 1km resolution
 
 #### Links
 - [SHOM website (in French)](https://diffusion.shom.fr/pro/risques/litto3dr-finistere-2014.html)
 - [English description](https://sextant.ifremer.fr/geonetwork/srv/api/records/4c54ac5e-9b83-42ad-b10e-e0769d6a1cd3)
+- [Blog post](https://blog.geogarage.com/2015/11/litto3d-french-coastal-dtm.html)
 
 
 ----
