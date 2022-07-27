@@ -1,11 +1,13 @@
 ![](https://i.imgur.com/ggpq56a.png)
 
 # Contents
-
-- [Overviews](#overviews)
-  - [Papers](#papers)
-  - [Portals](#portals)
-  - [Discussion](#discussion)
+- [Contents](#contents)
+- [Introduction](#introduction)
+    - [DEM vs DSM vs DTM](#dem-vs-dsm-vs-dtm)
+- [Links](#links)
+    - [Papers](#papers)
+    - [Portals](#portals)
+    - [Discussion](#discussion)
 - [Data](#data)
   - [Global, open](#global-open)
     - [Summary](#summary)
@@ -25,9 +27,32 @@
     - [3DEP](#3dep)
     - [ArcticDEM](#arcticdem)
 
-# Overviews
+
+# Introduction
+A [Digital Elevation Model](https://en.wikipedia.org/wiki/Digital_elevation_model) (DEM) represents the elevation of the terrain.
+
+
+### DEM vs DSM vs DTM
+It is useful to distinguish between DSM and DTM. 
+
+- **Digital Surface Model** (**DSM**): Includes objects on the surface, such as trees and buildings.
+- **Digital Terrain Model** (**DTM**): Represents the bare surface.
+
+In this repo, **DEM** is a generic term referring to either a **DSM** or a **DTM**. Note however that **DEM** is often also equated with **DTM**.
+
+
+This graphic from [Neon](https://www.neonscience.org/resources/learning-hub/tutorials/chm-dsm-dtm-gridded-lidar-data) summarizes the differences well:
+
+![](https://raw.githubusercontent.com/NEONScience/NEON-Data-Skills/dev-aten/graphics/lidar-derived-products/DSM-DTM.png)
+
+Note that even a DTM dataset may still be influenced by the actual surface height. For example, SRTM tends to be inaccurate when forest canopy is present.
+
+
+# Links
 ### Papers
 - [Vertical Accuracy of Freely Available Global Digital Elevation Models (ASTER, AW3D30, MERIT, TanDEM-X, SRTM, and NASADEM)](https://www.mdpi.com/2072-4292/12/21/3482)
+- [Comparative accuracy of the AW3D30 DSM, ASTER GDEM, and SRTM1 DEM: A case study on the Zaoksky testing ground, Central European Russia](https://www.tandfonline.com/doi/full/10.1080/2150704X.2018.1468098)
+- [Accuracy assessment of the TanDEM-X 90 Digital Elevation Model for selected floodplain sites](https://www.sciencedirect.com/science/article/pii/S0034425719303384)
 
 ### Portals
 - [OpenTopography](https://opentopography.org/)
@@ -44,16 +69,16 @@
 
 
 ### Summary
-| Dataset           | Horizontal (m)     | Vertical (m)           | Data collection period   | Method                 | Notes                                             |
-|:------------------|:-------------------|:-----------------------|:-------------------------|:-----------------------|:--------------------------------------------------|
-| ASTER GDEM V3     | 30                 | 17                     | 2000-2011                | Photogrammetry         |                                                   |
-| SRTM DEM V3       | 30 USA, 90 outside | 9                      | 2000                     | InSAR                  | Coverage between 60° north and 56° south latitude |
-| NASADEM           | 30                 |                        | 2000                     | InSAR                  | Reprocessing of SRTM                              |
-| AW3D30            | 30                 | 5                      | 2006-2011                | Photogrammetry         |                                                   |
-| COPERNICUS GLO-30 | 30                 | 4                      | 2011-2015                | InSAR                  | Based on WorldDEM                                 |
-| MERIT             | 90                 | 12                     | 2000, 2006-2011          | InSAR + Photogrammetry | Created from SRTM + AW3D30                        |
-| FABDEM            | 30                 | 1.12-2.88 (mean error) | 2011-2015                | InSAR                  | Used ML to remove buildings+trees from GLO-30      |
-| TanDEM-X 90m      | 90                 | 10                     | 2010-2015                | InSAR                  |                                                   |
+| Dataset           | Type   | Horizontal resolution (m)   | Vertical accuracy (m)   | Data collection period   | Method                 | Notes                                             |
+|:------------------|:-------|:----------------------------|:------------------------|:-------------------------|:-----------------------|:--------------------------------------------------|
+| ASTER GDEM V3     | DTM    | 30                          | 17                      | 2000-2011                | Photogrammetry         |                                                   |
+| SRTM DEM V3       | DTM    | 30 USA, 90 outside          | 9                       | 2000                     | InSAR                  | Coverage between 60° north and 56° south latitude |
+| NASADEM           | DTM    | 30                          |                         | 2000                     | InSAR                  | Reprocessing of SRTM                              |
+| AW3D30            | DSM    | 30                          | 5                       | 2006-2011                | Photogrammetry         |                                                   |
+| COPERNICUS GLO-30 | DSM    | 30                          | 4                       | 2011-2015                | InSAR                  | Based on WorldDEM                                 |
+| MERIT             | DTM    | 90                          | 12                      | 2000, 2006-2011          | InSAR + Photogrammetry | Created from SRTM + AW3D30                        |
+| FABDEM            | DTM    | 30                          | 1.12-2.88 (mean error)  | 2011-2015                | InSAR                  | Used ML to remove buildings+trees from GLO-30     |
+| TanDEM-X 90m      | DSM    | 90                          | 10                      | 2010-2015                | InSAR                  |                                                   |
 
 
 #### Which DEM is derived from which base dataset?
@@ -91,6 +116,9 @@ Coverage is only between 60° north and 56° south latitude
 #### Links
 - [USGS: SRTM](https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-shuttle-radar-topography-mission-srtm-1?qt-science_center_objects=0#qt-science_center_objects)
 - [OpenTopography](https://portal.opentopography.org/datasetMetadata?otCollectionID=OT.042013.4326.1)
+
+#### Discussion
+- In forested areas 
 
 
 ### NASADEM
