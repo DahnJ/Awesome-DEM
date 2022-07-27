@@ -35,7 +35,7 @@
 
 
 # Introduction
-A [Digital Elevation Model](https://en.wikipedia.org/wiki/Digital_elevation_model) (DEM) represents the elevation of the terrain.
+A [Digital Elevation Model](https://en.wikipedia.org/wiki/Digital_elevation_model) (DEM) represents the elevation of the surface.
 
 
 ### DEM vs DSM vs DTM
@@ -78,12 +78,12 @@ Note that even a DTM dataset may still be influenced by the actual surface heigh
 ### Summary
 | Dataset           | Type   | Horizontal resolution (m)   | Vertical accuracy (m)   | Data collection period   | Method                 | Notes                                             |
 |:------------------|:-------|:----------------------------|:------------------------|:-------------------------|:-----------------------|:--------------------------------------------------|
-| ASTER GDEM V3     | DTM    | 30                          | 17                      | 2000-2011                | Photogrammetry         |                                                   |
-| SRTM DEM V3       | DTM    | 30 USA, 90 outside          | 9                       | 2000                     | InSAR                  | Coverage between 60° north and 56° south latitude |
-| NASADEM           | DTM    | 30                          |                         | 2000                     | InSAR                  | Reprocessing of SRTM                              |
+| ASTER GDEM V3     | DSM    | 30                          | 17                      | 2000-2011                | Photogrammetry         |                                                   |
+| SRTM DEM V3       | DSM    | 30 USA, 90 outside          | 9                       | 2000                     | InSAR                  | Coverage between 60° north and 56° south latitude |
+| NASADEM           | DSM    | 30                          |                         | 2000                     | InSAR                  | Reprocessing of SRTM                              |
 | AW3D30            | DSM    | 30                          | 5                       | 2006-2011                | Photogrammetry         |                                                   |
 | COPERNICUS GLO-30 | DSM    | 30                          | 4                       | 2011-2015                | InSAR                  | Based on WorldDEM                                 |
-| MERIT             | DTM    | 90                          | 12                      | 2000, 2006-2011          | InSAR + Photogrammetry | Created from SRTM + AW3D30                        |
+| MERIT             | DSM    | 90                          | 12                      | 2000, 2006-2011          | InSAR + Photogrammetry | Created from SRTM + AW3D30                        |
 | FABDEM            | DTM    | 30                          | 1.12-2.88 (mean error)  | 2011-2015                | InSAR                  | Used ML to remove buildings+trees from GLO-30     |
 | TanDEM-X 90m      | DSM    | 90                          | 10                      | 2010-2015                | InSAR                  |                                                   |
 
