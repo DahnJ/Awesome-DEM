@@ -276,6 +276,19 @@ Timestamped elevation model of the Arctic
 #### Links
 - [REMA](https://www.pgc.umn.edu/data/rema/)
 
+### Australia - Elvis - Elevation and Depth
+DEMs, DSMs and point clouds for Australia
+- A repository of state and national datasets 
+- Generally lidar-derived data
+- Resolutions include
+    - 1m
+    - 2m
+    - 5m
+    - 1 second
+- Complete coverage for NSW, Victoria and Tasminia with partial coverage in other state/territories
+- Baythymetry also provided for surrounding waters
 
+#### Links
+- [Elvis - Elevation and Depth - Foundation Spatial Data](https://elevation.fsdf.org.au/)
 ----
 - *Logo created with* [*Brandmark*](https://app.brandmark.io/v3/)
