@@ -9,7 +9,7 @@ Content quality
 
 Sections
 - [ ] Expand beyond just data (tools?)
-- [ ] Basic explainers (DEM, DTM, DSM)
+- [x] Basic explainers (DEM, DTM, DSM)
 - [ ] "How to download" section?
 - [ ] Smaller-region DEMs (city, region, ..)
 - [ ] FAQ/tl;dr

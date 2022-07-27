@@ -239,6 +239,8 @@ DSM, fusion of SRTM and ASTER GDEM
 Used Ensemble Machine Learning with GEDI and ICESat-2 data to process available DSMs into a DTM
 - DSMs used:  MERITDEM, AW3D30, GLO-30, EU DEM, GLAD canopy height
 
+![](https://i0.wp.com/opengeohub.org/wp-content/uploads/2021/12/Dataset-2.png?w=750&ssl=1)
+
 #### Links
 - [Paper](https://zenodo.org/record/4724549)
 - [OpenGeoHub](https://opengeohub.org/datasets/european-digital-terrain-models-eu-dtm/)
@@ -263,9 +265,17 @@ DSM of the Arctic
 - Photogrammetry from stereo imagery
 - 2m horizontal resolution
 
-
 #### Links
 - [ArcticDEM](https://www.pgc.umn.edu/data/arcticdem/)
+
+### REMA
+Timestamped elevation model of the Arctic
+- Can measure elevation change
+- 8m horizontal resolution
+
+#### Links
+- [REMA](https://www.pgc.umn.edu/data/rema/)
+
 
 ----
 - *Logo created with* [*Brandmark*](https://app.brandmark.io/v3/)
