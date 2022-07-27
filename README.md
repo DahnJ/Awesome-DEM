@@ -27,7 +27,6 @@
     - [3DEP](#3dep)
     - [ArcticDEM](#arcticdem)
 
-
 # Introduction
 A [Digital Elevation Model](https://en.wikipedia.org/wiki/Digital_elevation_model) (DEM) represents the elevation of the terrain.
 
