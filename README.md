@@ -25,9 +25,31 @@
     - [3DEP](#3dep)
     - [ArcticDEM](#arcticdem)
 
-# Overviews
+# Introduction
+A [Digital Elevation Model](https://en.wikipedia.org/wiki/Digital_elevation_model) (DEM) represents the elevation of the terrain.
+
+
+### DEM vs DSM vs DTM
+It is useful to distinguish between DSM and DTM. 
+
+- **Digital Surface Model** (**DSM**): Includes objects on the surface, such as trees and buildings.
+- **Digital Terrain Model** (**DTM**): Represents the bare surface.
+
+In this repo, **DEM** is a generic term referring to either a **DSM** or a **DTM**. Note however that **DEM** is often also equated with **DTM**.
+
+
+This graphic from [Neon](https://www.neonscience.org/resources/learning-hub/tutorials/chm-dsm-dtm-gridded-lidar-data) summarizes the differences well:
+
+![](https://raw.githubusercontent.com/NEONScience/NEON-Data-Skills/dev-aten/graphics/lidar-derived-products/DSM-DTM.png)
+
+Note that even a DTM dataset may still be influenced by the actual surface height. For example, SRTM tends to be inaccurate when forest canopy is present.
+
+
+# Links
 ### Papers
 - [Vertical Accuracy of Freely Available Global Digital Elevation Models (ASTER, AW3D30, MERIT, TanDEM-X, SRTM, and NASADEM)](https://www.mdpi.com/2072-4292/12/21/3482)
+- [Comparative accuracy of the AW3D30 DSM, ASTER GDEM, and SRTM1 DEM: A case study on the Zaoksky testing ground, Central European Russia](https://www.tandfonline.com/doi/full/10.1080/2150704X.2018.1468098)
+- [Accuracy assessment of the TanDEM-X 90 Digital Elevation Model for selected floodplain sites](https://www.sciencedirect.com/science/article/pii/S0034425719303384)
 
 ### Portals
 - [OpenTopography](https://opentopography.org/)
@@ -91,6 +113,9 @@ Coverage is only between 60° north and 56° south latitude
 #### Links
 - [USGS: SRTM](https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-shuttle-radar-topography-mission-srtm-1?qt-science_center_objects=0#qt-science_center_objects)
 - [OpenTopography](https://portal.opentopography.org/datasetMetadata?otCollectionID=OT.042013.4326.1)
+
+#### Discussion
+- In forested areas 
 
 
 ### NASADEM
