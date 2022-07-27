@@ -22,10 +22,17 @@
   - [Global, proprietary](#global-proprietary)
     - [WorldDEM and TanDEM-X](#worlddem-and-tandem-x)
     - [Vricon](#vricon)
+  - [Global bathymetric, open](#global-bathymetric-open)
+    - [GMRT](#gmrt)
+    - [SRTM15+](#srtm15)
   - [Local, open](#local-open)
     - [EU-DEM](#eu-dem)
+    - [EU-DTM](#eu-dtm)
     - [3DEP](#3dep)
     - [ArcticDEM](#arcticdem)
+    - [REMA](#rema)
+    - [Australia - Elvis - Elevation and Depth](#australia---elvis---elevation-and-depth)
+
 
 # Introduction
 A [Digital Elevation Model](https://en.wikipedia.org/wiki/Digital_elevation_model) (DEM) represents the elevation of the terrain.
