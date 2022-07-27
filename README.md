@@ -226,7 +226,7 @@ Collection of open and proprietary DEMs from Airbus (WorldDEM) and DLR (TanDEM-X
 
 ## Local, open
 ### EU-DEM
-Fusion of SRTM and ASTER GDEM
+DSM, fusion of SRTM and ASTER GDEM
 - 30m horizontal resolution
 - 7m vertical RMSE
 
@@ -234,6 +234,16 @@ Fusion of SRTM and ASTER GDEM
 
 #### Links
 - [EEA Data](https://www.eea.europa.eu/data-and-maps/data/copernicus-land-monitoring-service-eu-dem)
+
+### EU-DTM
+Used Ensemble Machine Learning with GEDI and ICESat-2 data to process available DSMs into a DTM
+- DSMs used:  MERITDEM, AW3D30, GLO-30, EU DEM, GLAD canopy height
+
+#### Links
+- [Paper](https://zenodo.org/record/4724549)
+- [OpenGeoHub](https://opengeohub.org/datasets/european-digital-terrain-models-eu-dtm/)
+- [OpenDataScience Article](https://opendatascience.eu/geo-harmonizer/building-continental-europe-digital-terrain-model-30-m-resolution-using-machine-learning/)
+
 
 ### 3DEP
 USGS 3D Elevation Program (3DEP) 
