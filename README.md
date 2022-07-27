@@ -324,5 +324,16 @@ DEMs, DSMs and point clouds for Australia
 
 #### Links
 - [Elvis - Elevation and Depth - Foundation Spatial Data](https://elevation.fsdf.org.au/)
+
+
+### Litto3D
+Coastal areas in mainland France, topograhpic and bathymetric information
+- 1km resolution
+
+#### Links
+- [SHOM website (in French)](https://diffusion.shom.fr/pro/risques/litto3dr-finistere-2014.html)
+- [English description](https://sextant.ifremer.fr/geonetwork/srv/api/records/4c54ac5e-9b83-42ad-b10e-e0769d6a1cd3)
+
+
 ----
 - *Logo created with* [*Brandmark*](https://app.brandmark.io/v3/)
