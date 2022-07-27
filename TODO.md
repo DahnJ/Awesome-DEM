@@ -13,5 +13,5 @@ Sections
 - [ ] "How to download" section?
 - [ ] Smaller-region DEMs (city, region, ..)
 - [ ] FAQ/tl;dr
-- [ ] Bathymetry datasets
+- [x] Bathymetry datasets
 - [ ] Links to other lists (EO datasets, ..)

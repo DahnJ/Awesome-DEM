@@ -58,6 +58,7 @@ Note that even a DTM dataset may still be influenced by the actual surface heigh
 - [AWS Open Data](https://registry.opendata.aws/)
 - [Microsoft Planetary Computer Data Catalog](https://planetarycomputer.microsoft.com/catalog)
 - [Google Earth Engine Data Catalog](https://developers.google.com/earth-engine/datasets/catalog)
+- [Sentinel Hub](https://www.sentinel-hub.com/)
 
 ### Discussion
 - [Discussion on Joe Morrison's DEM tweet](https://twitter.com/mouthofmorrison/status/1538679755674984448)
