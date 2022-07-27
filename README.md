@@ -288,6 +288,8 @@ DEMs, DSMs and point clouds for Australia
 - Complete coverage for NSW, Victoria and Tasminia with partial coverage in other state/territories
 - Baythymetry also provided for surrounding waters
 
+![](elvis-coverage.png)
+
 #### Links
 - [Elvis - Elevation and Depth - Foundation Spatial Data](https://elevation.fsdf.org.au/)
 ----
