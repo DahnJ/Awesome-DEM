@@ -126,9 +126,6 @@ Coverage is only between 60° north and 56° south latitude
 - [USGS: SRTM](https://www.usgs.gov/centers/eros/science/usgs-eros-archive-digital-elevation-shuttle-radar-topography-mission-srtm-1?qt-science_center_objects=0#qt-science_center_objects)
 - [OpenTopography](https://portal.opentopography.org/datasetMetadata?otCollectionID=OT.042013.4326.1)
 
-#### Discussion
-- In forested areas 
-
 
 ### NASADEM
 Reprocessing of SRTM
