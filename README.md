@@ -335,5 +335,16 @@ Coastal areas in mainland France, topographic and bathymetric information
 - [Blog post](https://blog.geogarage.com/2015/11/litto3d-french-coastal-dtm.html)
 
 
+
+### High Mountain Asia DEM
+High mountain asia glaciers
+- 8m resolution
+- From DigitalGlobe imagery, collected 2002-2016
+- Spatial region: from Tien Shan and Hindu Kush to Eastern Himalaya
+
+#### Links
+- [NSIDC Blog](https://nsidc.org/the-drift/data-update/high-mountain-asia-8-meter-digital-elevation-models-now-available/)
+
+
 ----
 - *Logo created with* [*Brandmark*](https://app.brandmark.io/v3/)
