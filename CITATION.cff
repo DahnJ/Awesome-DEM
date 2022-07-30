@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you want to reference this repository, please cite it as below."
+preferred-citation:
+  type: generic
+  authors:
+  - family-names: "Jahn"
+    given-names: "Daniel"
+  title: "Awesome DEM"
+  url: "https://github.com/DahnJ/Awesome-DEM"
