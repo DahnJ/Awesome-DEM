@@ -33,6 +33,7 @@
     - [REMA](#rema)
     - [Australia - Elvis - Elevation and Depth](#australia---elvis---elevation-and-depth)
     - [Litto3D](#litto3d)
+    - [High Mountain Asia DEM](#high-mountain-asia-dem)
 
 
 # Introduction
@@ -319,7 +320,7 @@ DEMs, DSMs and point clouds for Australia
 - Complete coverage for NSW, Victoria and Tasminia with partial coverage in other state/territories
 - Bathymetry also provided for surrounding waters
 
-![](elvis-coverage.png)
+![](images/elvis-coverage.png)
 
 #### Links
 - [Elvis - Elevation and Depth - Foundation Spatial Data](https://elevation.fsdf.org.au/)
@@ -342,7 +343,10 @@ High mountain asia glaciers
 - From DigitalGlobe imagery, collected 2002-2016
 - Spatial region: from Tien Shan and Hindu Kush to Eastern Himalaya
 
+![](images/hma-coverage.png)
+
 #### Links
+- [NSIDC HMA Website](https://nsidc.org/data/highmountainasia)
 - [NSIDC Blog](https://nsidc.org/the-drift/data-update/high-mountain-asia-8-meter-digital-elevation-models-now-available/)
 
 
