@@ -28,11 +28,13 @@
   - [Local, open](#local-open)
     - [EU-DEM](#eu-dem)
     - [EU-DTM](#eu-dtm)
-    - [3DEP](#3dep)
+    - [US: 3DEP](#us-3dep)
     - [ArcticDEM](#arcticdem)
-    - [REMA](#rema)
-    - [Australia - Elvis - Elevation and Depth](#australia---elvis---elevation-and-depth)
-    - [Litto3D](#litto3d)
+    - [Arctic: REMA](#arctic-rema)
+    - [Australia: Elvis - Elevation and Depth](#australia-elvis---elevation-and-depth)
+    - [France: Litto3D](#france-litto3d)
+    - [France: EGR ALTI](#france-egr-alti)
+    - [France: HD-LIDAR](#france-hd-lidar)
     - [High Mountain Asia DEM](#high-mountain-asia-dem)
 
 
@@ -279,7 +281,7 @@ Used Ensemble Machine Learning with GEDI and ICESat-2 data to process available 
 - [OpenDataScience Article](https://opendatascience.eu/geo-harmonizer/building-continental-europe-digital-terrain-model-30-m-resolution-using-machine-learning/)
 
 
-### 3DEP
+### US: 3DEP
 USGS 3D Elevation Program (3DEP) 
 - Lidar-derived data
 - Very high resolution (2m)
@@ -300,7 +302,7 @@ DSM of the Arctic
 #### Links
 - [ArcticDEM](https://www.pgc.umn.edu/data/arcticdem/)
 
-### REMA
+### Arctic: REMA
 Timestamped elevation model of the Arctic
 - Can measure elevation change
 - 8m horizontal resolution
@@ -308,7 +310,7 @@ Timestamped elevation model of the Arctic
 #### Links
 - [REMA](https://www.pgc.umn.edu/data/rema/)
 
-### Australia - Elvis - Elevation and Depth
+### Australia: Elvis - Elevation and Depth
 DEMs, DSMs and point clouds for Australia
 - A repository of state and national datasets 
 - Generally lidar-derived data
@@ -326,7 +328,7 @@ DEMs, DSMs and point clouds for Australia
 - [Elvis - Elevation and Depth - Foundation Spatial Data](https://elevation.fsdf.org.au/)
 
 
-### Litto3D
+### France: Litto3D
 Coastal areas in mainland France, topographic and bathymetric information
 - 1km resolution
 
@@ -334,6 +336,30 @@ Coastal areas in mainland France, topographic and bathymetric information
 - [SHOM website (in French)](https://diffusion.shom.fr/pro/risques/litto3dr-finistere-2014.html)
 - [English description](https://sextant.ifremer.fr/geonetwork/srv/api/records/4c54ac5e-9b83-42ad-b10e-e0769d6a1cd3)
 - [Blog post](https://blog.geogarage.com/2015/11/litto3d-french-coastal-dtm.html)
+
+
+### France: EGR ALTI
+DTM of France
+- ~1m resolution. Varies by altitude (mountain areas have around 7m resolution).
+- Created from airborne LIDAR and correlation of aerial images
+
+![](images/rge-alti-coverage.png)
+
+#### Links
+- [Website with FTP download links](https://geoservices.ign.fr/rgealti)
+- [Documentation](https://geoservices.ign.fr/sites/default/files/2021-07/DC_RGEALTI_2-0.pdf)
+
+
+### France: HD-LIDAR
+Ongoing LIDAR acquisition campaign
+- Point-cloud data processed into DTMs, DSMs and digital height models
+
+
+![](https://geoservices.ign.fr/sites/default/files/2022-02/Lidar_Nimes2.png)
+
+#### Links
+- [Website](https://geoservices.ign.fr/lidarhd)
+
 
 
 
