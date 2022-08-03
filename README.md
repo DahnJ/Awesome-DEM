@@ -36,6 +36,13 @@
     - [France: EGR ALTI](#france-egr-alti)
     - [France: HD-LIDAR](#france-hd-lidar)
     - [High Mountain Asia DEM](#high-mountain-asia-dem)
+ - [Non-terrestrial, open](#non-terrestrial-open)
+    - [Lunar Orbiter Laser Altimeter (LOLA)](#lunar-orbiter-laser-altimeter-lola)
+    - [Pluto New Horizon](#pluto-new-horizon)
+    - [Mars Orbiter Laser Altimeter (MOLA)](#mars-orbiter-laser-altimeter-mola)
+    - [Charon New Horizon](#charon-new-horizon)
+    - [Mercury Messenger](#mercury-messenger)
+    - [Venus Magellan](#venus-magellan)
 
 
 # Introduction
@@ -379,7 +386,7 @@ High mountain asia glaciers
 
 ### Lunar Orbiter Laser Altimeter (LOLA)
 
-Lunar DEM created by the * Lunar Reconnaissance Orbiter* (LRO) mission. The data is available in several versions. A DEM covering the entire lunar surface at a resolution of 118m and a DEM of resolution 59m covering latitudes within ±60.
+Lunar DEM created by the *Lunar Reconnaissance Orbiter* (LRO) mission. The data is available in several versions. A DEM covering the entire lunar surface at a resolution of 118m and a DEM of resolution 59m covering latitudes within ±60.
 
 ![](images/moon-sample.jpg)
 
