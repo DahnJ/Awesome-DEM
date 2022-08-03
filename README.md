@@ -36,7 +36,7 @@
     - [France: EGR ALTI](#france-egr-alti)
     - [France: HD-LIDAR](#france-hd-lidar)
     - [High Mountain Asia DEM](#high-mountain-asia-dem)
- - [Non-terrestrial, open](#non-terrestrial-open)
+  - [Non-terrestrial, open](#non-terrestrial-open)
     - [Lunar Orbiter Laser Altimeter (LOLA)](#lunar-orbiter-laser-altimeter-lola)
     - [Pluto New Horizon](#pluto-new-horizon)
     - [Mars Orbiter Laser Altimeter (MOLA)](#mars-orbiter-laser-altimeter-mola)
