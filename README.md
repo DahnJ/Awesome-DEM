@@ -381,6 +381,8 @@ High mountain asia glaciers
 
 Lunar DEM created by the * Lunar Reconnaissance Orbiter* (LRO) mission. The data is available in several versions. A DEM covering the entire lunar surface at a resolution of 118m and a DEM of resolution 59m covering latitudes within ±60.
 
+![](images/moon-sample.jpg)
+
 #### Links
 - [Moon LRO LOLA DEM 118m v1](https://astrogeology.usgs.gov/search/map/Moon/LRO/LOLA/Lunar_LRO_LOLA_Global_LDEM_118m_Mar2014)
 - [Moon LRO LOLA - SELENE Kaguya TC DEM Merge 60N60S 59m v1](https://astrogeology.usgs.gov/search/map/Moon/LRO/LOLA/Lunar_LRO_LOLAKaguya_DEMmerge_60N60S_512ppd)
@@ -389,6 +391,8 @@ Lunar DEM created by the * Lunar Reconnaissance Orbiter* (LRO) mission. The data
 
 A partial DEM of Pluto with a resolution of 300m
 
+![](images/pluto-sample.jpg)
+
 #### Links
 - [Pluto New Horizons LORRI - MVIC Global DEM 300m v1](https://astrogeology.usgs.gov/search/map/Pluto/NewHorizons/Pluto_NewHorizons_Global_DEM_300m_Jul2017)
 
@@ -396,12 +400,16 @@ A partial DEM of Pluto with a resolution of 300m
 
 A DEM of Mars with a resolution of 463m
 
+![](images/mars-sample.jpg)
+
 #### Links
 - [Mars MGS MOLA DEM 463m v2](https://astrogeology.usgs.gov/search/map/Mars/GlobalSurveyor/MOLA/Mars_MGS_MOLA_DEM_mosaic_global_463m)
 
 ### Charon New Horizon
 
 A partial DEM of Pluto with a resolution of 300m
+
+![](images/charon-sample.jpg)
 
 #### Links
 - [Charon New Horizons LORRI MVIC Global DEM 300m v1](https://astrogeology.usgs.gov/search/map/Charon/NewHorizons/Charon_NewHorizons_Global_DEM_300m_Jul2017)
@@ -411,12 +419,16 @@ A partial DEM of Pluto with a resolution of 300m
 
 A DEM of Mercury with a resolution of 665m
 
+![](images/mercury-sample.jpg)
+
 #### Links
 - [Mercury MESSENGER Global DEM 665m v2](https://astrogeology.usgs.gov/search/map/Mercury/Topography/MESSENGER/Mercury_Messenger_USGS_DEM_Global_665m_v2)
 
 ### Venus Magellan
 
 A Dem of Venus with a resolution of 4641m
+
+![](images/venus-sample.jpg)
 
 #### Links
 - [Venus Magellan Global Topography 4641m v2](https://astrogeology.usgs.gov/search/map/Venus/Magellan/RadarProperties/Venus_Magellan_Topography_Global_4641m_v02)
