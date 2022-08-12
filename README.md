@@ -344,16 +344,17 @@ Coastal areas in mainland France, topographic and bathymetric information
 - [Blog post](https://blog.geogarage.com/2015/11/litto3d-french-coastal-dtm.html)
 
 
-### France: EGR ALTI
-DTM of France
+### France: RGE ALTI (RGE: Hight-Scale Referential in French)
+DTM of France (including ultramarine territories). This DEM is updated each year with new acquisitions (usually lidar)
 - ~1m resolution. Varies by altitude (mountain areas have around 7m resolution).
-- Created from airborne LIDAR and correlation of aerial images
+- Created from airborne LIDAR, correlation of aerial images and radar (Mountains and French Guyana)
 
 ![](images/rge-alti-coverage.png)
 
 #### Links
 - [Website with FTP download links](https://geoservices.ign.fr/rgealti)
 - [Documentation](https://geoservices.ign.fr/sites/default/files/2021-07/DC_RGEALTI_2-0.pdf)
+- [Map of sources](https://www.geoportail.gouv.fr/carte?c=4.7481202376327944,46.47822241851&z=7&l0=ORTHOIMAGERY.ORTHOPHOTOS::GEOPORTAIL:OGC:WMTS(1)&l1=ELEVATIONGRIDCOVERAGE.HIGHRES.QUALITY::GEOPORTAIL:OGC:WMTS(1)&permalink=yes)
 
 
 ### France: HD-LIDAR
