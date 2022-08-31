@@ -33,7 +33,7 @@
     - [Arctic: REMA](#arctic-rema)
     - [Australia: Elvis - Elevation and Depth](#australia-elvis---elevation-and-depth)
     - [France: Litto3D](#france-litto3d)
-    - [France: EGR ALTI](#france-egr-alti)
+    - [France: RGE ALTI](#france-egr-alti)
     - [France: HD-LIDAR](#france-hd-lidar)
     - [High Mountain Asia DEM](#high-mountain-asia-dem)
   - [Non-terrestrial, open](#non-terrestrial-open)
