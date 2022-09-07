@@ -23,7 +23,9 @@
     - [WorldDEM and TanDEM-X](#worlddem-and-tandem-x)
     - [Vricon](#vricon)
   - [Global bathymetric, open](#global-bathymetric-open)
+    - [ETOPO1](#etopo1)
     - [GMRT](#gmrt)
+    - [GEBCO](#gebco)
     - [SRTM15+](#srtm15)
   - [Local, open](#local-open)
     - [EU-DEM](#eu-dem)
@@ -242,6 +244,13 @@ Collection of open and proprietary DEMs from Airbus (WorldDEM) and DLR (TanDEM-X
 
 
 ## Global bathymetric, open
+### ETOPO1
+ETOPO1 is a 1 arc-minute global relief model of Earth's surface that integrates land topography and ocean bathymetry. Built from global and regional data sets, it is available in "Ice Surface" (top of Antarctic and Greenland ice sheets) and "Bedrock" (base of the ice sheets). 
+- ~2km resolution
+
+#### Links
+- [Project website](https://www.ngdc.noaa.gov/mgg/global/)
+
 ### GMRT
 Global Multi-Resolution Topography Data Synthesis
 - synthesis of multi-resolution multibeam sonar data
@@ -252,6 +261,13 @@ Global Multi-Resolution Topography Data Synthesis
 #### Links
 - [Project website](https://www.gmrt.org/)
 - [OpenTopography](https://portal.opentopography.org/datasetMetadata?otCollectionID=OT.112016.4326.1)
+
+### GEBCO
+GEBCO’s current gridded bathymetric data set, the GEBCO_2022 Grid, is a global terrain model for ocean and land, providing elevation data, in meters, on a 15 arc-second interval grid. It is accompanied by a Type Identifier (TID) Grid that gives information on the types of source data that the GEBCO_2022 Grid is based on.
+- ~250m resolution
+
+#### Links
+- [Project website]((https://www.ngdc.noaa.gov/mgg/global/))
 
 ### SRTM15+
 Global Bathymetry and Topography
