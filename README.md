@@ -35,6 +35,7 @@
     - [France: Litto3D](#france-litto3d)
     - [France: RGE ALTI](#france-rge-alti)
     - [France: HD-LIDAR](#france-hd-lidar)
+    - [Switzerland: SwissALTI3D](#switzerland-swissalti3d)
     - [High Mountain Asia DEM](#high-mountain-asia-dem)
   - [Non-terrestrial, open](#non-terrestrial-open)
     - [Lunar Orbiter Laser Altimeter (LOLA)](#lunar-orbiter-laser-altimeter-lola)
@@ -368,6 +369,17 @@ Ongoing LIDAR acquisition campaign
 #### Links
 - [Website](https://geoservices.ign.fr/lidarhd)
 
+
+### Switzerland: SwissALTI3D
+SwissALTI3D is an extremely precise digital elevation model which describes the surface of Switzerland without vegetation and development
+- Updated every six years by the Federal Office of Topography (Swisstopo)
+
+
+![](https://pbs.twimg.com/media/EKiDiu2W4AAPh_-?format=jpg)
+
+#### Links
+- [SwissALTI3D Website](https://www.swisstopo.admin.ch/en/geodata/height/alti3d.html)
+- [SwissALTI3D Hillshade](https://map.geo.admin.ch/?lang=en&topic=swisstopo&bgLayer=ch.swisstopo.pixelkarte-grau&X=185466.05&Y=647539.98&zoom=1&layers=ch.swisstopo.swissalti3d-reliefschattierung)
 
 
 
