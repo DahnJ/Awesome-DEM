@@ -268,7 +268,7 @@ GEBCO’s current gridded bathymetric data set, the GEBCO_2022 Grid, is a global
 - ~250m resolution
 
 #### Links
-- [Project website]((https://www.ngdc.noaa.gov/mgg/global/))
+- [Project website](https://www.gebco.net)
 
 ### SRTM15+
 Global Bathymetry and Topography
