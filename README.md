@@ -168,18 +168,13 @@ Reprocessing of SRTM
 ### Copernicus DEM
 Based on WorldDEM/TanDEM-X
 
-![](https://i.imgur.com/c4Bo2dj.png)
-
-Does not cover areas around Azerbaijan and Armenia
-
 ![](https://i.imgur.com/fbCSwHt.png)
 
 Product comparison
 
 #### Products
 - **GLO-90** worldwide 90m
-- **GLO-30** limited worldwide 30m
-    - doesn't cover Azerbaijan and Armenia
+- **GLO-30** worldwide 30m
 - **EEA-10** Europe only, not publicly avaialable ([access rights](https://spacedata.copernicus.eu/web/cscda/copernicus-users/access-rights#C5))
 
 #### Links
