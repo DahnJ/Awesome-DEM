@@ -37,6 +37,7 @@
     - [France: Litto3D](#france-litto3d)
     - [France: RGE ALTI](#france-rge-alti)
     - [France: HD-LIDAR](#france-hd-lidar)
+    - [Italy: Tinitaly DEM](#italy-tinitaly-dem)
     - [Switzerland: SwissALTI3D](#switzerland-swissalti3d)
     - [High Mountain Asia DEM](#high-mountain-asia-dem)
   - [Non-terrestrial, open](#non-terrestrial-open)
@@ -380,6 +381,16 @@ Ongoing LIDAR acquisition campaign
 #### Links
 - [Website](https://geoservices.ign.fr/lidarhd)
 
+
+### Italy: Tinitaly DEM
+DTM of Italy on a 10m grid. Collected from multiple sources of various resolutions.
+
+<img src="https://i.imgur.com/AIcX8L8.png" width="500px">
+
+#### Links
+- [Website](https://tinitaly.pi.ingv.it/)
+- [TINITALY/01 paper (2007)](https://www.annalsofgeophysics.eu/index.php/annals/article/view/4424)
+- [TINITALY/1.1 paper (2023)](https://tinitaly.pi.ingv.it/)
 
 ### Switzerland: SwissALTI3D
 SwissALTI3D is an extremely precise digital elevation model which describes the surface of Switzerland without vegetation and development
