@@ -40,6 +40,7 @@
     - [Italy: Tinitaly DEM](#italy-tinitaly-dem)
     - [Switzerland: SwissALTI3D](#switzerland-swissalti3d)
     - [High Mountain Asia DEM](#high-mountain-asia-dem)
+    - [New Zealand: LINZ DEMs & Related](#new-zealand-linz-dems--related)
   - [Non-terrestrial, open](#non-terrestrial-open)
     - [Lunar Orbiter Laser Altimeter (LOLA)](#lunar-orbiter-laser-altimeter-lola)
     - [Pluto New Horizon](#pluto-new-horizon)
@@ -416,6 +417,20 @@ High mountain asia glaciers
 #### Links
 - [NSIDC HMA Website](https://nsidc.org/data/highmountainasia)
 - [NSIDC Blog](https://nsidc.org/the-drift/data-update/high-mountain-asia-8-meter-digital-elevation-models-now-available/)
+
+
+### New Zealand: LINZ DEMs & Related
+[LINZ](https://data.linz.govt.nz/) provides a collection of DEMs for different regions of New Zealand. The resolution is 1m.
+
+There also exist lower resolution processings of the LINZ datasets.
+
+![](https://www.opentopodata.org/img/nzdem.png)
+
+
+#### Links
+- [LINZ 1m DEMs](https://data.linz.govt.nz/data/category/elevation/)
+- [NZ DEM (8m)](https://www.opentopodata.org/datasets/nzdem/), derived from 20m contours on [LINZ topo map](https://data.linz.govt.nz/layer/50768-nz-contours-topo-150k/)
+- [NZDEM-HGT-30](https://github.com/JohnLeber/NZDEM-HGT-30) in HGT/SRTM1 format with 1 arc-second resolution.
 
 
 ## Non-terrestrial, open
